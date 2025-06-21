@@ -1,0 +1,4 @@
+.env
+langchain_venv/
+__pycache__/
+example_data/
